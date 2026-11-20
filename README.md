@@ -1,6 +1,6 @@
 # OSY: Automatická registrace Debianu 13 do Zabbixu
 
-![Virtuální server s Debianem 13 propojený se Zabbix monitoringem](Images/zaba)
+![Virtuální server s Debianem 13 propojený se Zabbix monitoringem](Images/zaba.png)
 
 Toto je šablona zadání pro výuku předmětu OSY na [osy.sposdk.cz](https://osy.sposdk.cz/). Z této šablony vznikne váš vlastní žákovský repozitář. Pracujte a odevzdávejte změny v něm.
 
